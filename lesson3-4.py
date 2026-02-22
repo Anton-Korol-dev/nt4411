@@ -17,10 +17,10 @@
 # y = int(input("Enter a second number: "))
 # print(third_function(x, y))
 
-def fourth_function(arg1, arg2):
-    return arg1 * arg2
-print(fourth_function(int(input("Enter a first number: ")),
-                      int(input("Enter a second number: "))))
+# def fourth_function(arg1, arg2):
+#     return arg1 * arg2
+# print(fourth_function(int(input("Enter a first number: ")),
+#                       int(input("Enter a second number: "))))
 
-fourth_function(int(input("Enter a first number: ")),
-                      int(input("Enter a second number: ")))
+# fourth_function(int(input("Enter a first number: ")),
+#                       int(input("Enter a second number: ")))
